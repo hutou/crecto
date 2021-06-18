@@ -23,4 +23,4 @@ development_dependencies:
     github: crystal-lang/crystal-sqlite3
     version: ~> 0.18.0
 
-crystal: *
+crystal: "*"
